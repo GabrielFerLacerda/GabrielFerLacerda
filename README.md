@@ -90,7 +90,7 @@ const dev = {
 
 ### 👨‍💻 Linguagens de Programação  
 - 🟡 JavaScript ![★★★★☆](https://img.shields.io/badge/-4/5-yellow)  
-- 🔴 Java ![★★☆☆☆](https://img.shields.io/badge/-3/5-red)  
+- 🔴 Java ![★★☆☆☆](https://img.shields.io/badge/-2/5-red)  
 
 ### 🖥️ Front-End  
 - ⚛️ React.js ![★★★★☆](https://img.shields.io/badge/-4/5-lightgrey)  
@@ -99,15 +99,15 @@ const dev = {
 
 ### 🔧 Back-End & Banco de Dados  
 - 🟢 Node.js ![★★★★☆](https://img.shields.io/badge/-4/5-green)  
-- 🐘 PostgreSQL ![★★☆☆☆](https://img.shields.io/badge/-3/5-blue)  
+- 🐘 PostgreSQL ![★★☆☆☆](https://img.shields.io/badge/-2/5-blue)  
 
 ### 🎨 Design & Organização  
-- 🎨 Figma ![★★★★★](https://img.shields.io/badge/-4/5-purple)  
-- 📌 Trello ![★★★★★](https://img.shields.io/badge/-4/5-blue)  
+- 🎨 Figma ![★★★★★](https://img.shields.io/badge/-5/5-purple)  
+- 📌 Trello ![★★★★★](https://img.shields.io/badge/-5/5-blue)  
 - 🧠 Miro ![★★★★☆](https://img.shields.io/badge/-4/5-yellow)  
 
 ### 🛠️ Ferramentas & DevOps  
-- 🐙 Git & GitHub ![★★★★★](https://img.shields.io/badge/-4/5-black)  
+- 🐙 Git & GitHub ![★★★★★](https://img.shields.io/badge/-5/5-black)  
 - ☁️ GitHub Pages ![★★★☆☆](https://img.shields.io/badge/-3/5-lightgrey)  
 
 ### 🔥 Soft Skills  
