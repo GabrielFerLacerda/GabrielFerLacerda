@@ -47,6 +47,9 @@ const dev = {
 
 <br>
 
+
+
+
 ## ⚙ Tecnologias Utilizadas
 
 <br>
