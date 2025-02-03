@@ -31,3 +31,16 @@ const dev = {
 
 <br>
 
+## 👨‍💻 Sobre Mim  
+
+- 🎓 Atualmente estudando **Desenvolvimento de Sistemas no SENAI**.  
+- ♟ **Jogar** é meu passatempo favorito quando estou livre.  
+- 🏆 Meu objetivo? Me tornar um **Desenvolvedor Full Stack**!  
+- 🎧 Programação com música? Sempre! Torna tudo mais divertido.  
+- 📚 Curto muito **Geografia, Biologia e, claro, programação**!  
+- 💪 Academia faz parte da rotina – nada como um treino para manter o equilíbrio.  
+- 😴 Se não estou fazendo nada disso, provavelmente estou dormindo.  
+
+🚀 **Sempre aprendendo e evoluindo!** 🚀  
+
+
