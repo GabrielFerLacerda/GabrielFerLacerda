@@ -85,3 +85,25 @@ const dev = {
 
 <br>
 
+
+<h3>🎮 Tente adivinhar o número secreto!</h3>
+<p>Escolha um número entre 1 e 10:</p>
+<input type="number" id="guess" min="1" max="10">
+<button onclick="checkNumber()">Adivinhar</button>
+<p id="result"></p>
+
+<script>
+  const secretNumber = Math.floor(Math.random() * 10) + 1;
+
+  function checkNumber() {
+    let userGuess = document.getElementById('guess').value;
+    let result = document.getElementById('result');
+
+    if (userGuess == secretNumber) {
+      result.innerHTML = "🎉 Parabéns! Você acertou!";
+    } else {
+      result.innerHTML = "❌ Errado! Tente novamente!";
+    }
+  }
+</script>
+
