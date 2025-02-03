@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Dev%C2%B4s%2C+Sou+o+Gabriel!+%E2%9C%8C%EF%B8%8F;Futuro+Full-Stack+Developer!+%F0%9F%92%BB;Sejam+bem-vindos(as)+ao+meu+Perfil%F0%9F%A4%93)](https://git.io/typing-svg)
 
+<br>
 <!--
 **GabrielFerLacerda/GabrielFerLacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
