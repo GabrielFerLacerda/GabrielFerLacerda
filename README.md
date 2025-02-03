@@ -2,9 +2,9 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)
-[![GitHub followers](https://img.shields.io/github/followers/nicholas-sc-08?label=Follow&style=social)](https://github.com/nicholas-sc-08)
-![profile-views](https://komarev.com/ghpvc/?username=nicholas-sc-08&color=blue)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](www.linkedin.com/in/gabriel-fernandes-a90649329)
+[![GitHub followers](https://img.shields.io/github/followers/nicholas-sc-08?label=Follow&style=social)](https://github.com/GabrielFerLacerda)
+![profile-views](https://komarev.com/ghpvc/?username=GabrielFerLacerdacolor=blue)
 
 <br>
 
