@@ -28,6 +28,7 @@ const dev = {
   hobbies: ["Coding", "Chess", "Gym", "Music", "Gaming", "Physics"],
   status: () => "Probably coding... or sleeping 😴"
 };
+```
 
 <br>
 👨‍💻 About Me!
