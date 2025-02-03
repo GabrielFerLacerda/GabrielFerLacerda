@@ -22,10 +22,10 @@
 
 ```js
 const dev = {
-  name: "Seu Nome",
-  role: "Futuro Full Stack Developer",
-  studying: "Desenvolvimento de Sistemas - SENAI",
-  passions: ["Código", "Xadrez", "Academia", "Música", "Matemática", "Física"],
+  nome: "Seu Nome",
+  cargo: "Futuro Full Stack Developer",
+  estudando: "Desenvolvimento de Sistemas - SENAI",
+  passaTempo: ["Código", "Xadrez", "Academia", "Música", "Jogar", "Física"],
   status: () => "Provavelmente codando... ou dormindo 😴"
 };
 
