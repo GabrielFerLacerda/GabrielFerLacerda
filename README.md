@@ -30,10 +30,11 @@ const dev = {
 };
 ```
 
-
 <br>
 
 # 👨‍💻 Sobre Mim! 
+
+<br>
 
 - 🎓 Atualmente estudando **Desenvolvimento de Sistemas no SENAI**.  
 - ♟ **Jogar** é meu passatempo favorito quando estou livre.  
@@ -48,8 +49,6 @@ const dev = {
 <br>
 
 
-
-
 ## ⚙ Tecnologias Utilizadas
 
 <br>
@@ -62,6 +61,7 @@ const dev = {
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postegree](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<br>
 
 ## 🛠 Ferramentas de Trabalho
  
@@ -85,5 +85,5 @@ const dev = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-
+<br>
 
