@@ -28,10 +28,12 @@ const dev = {
   passaTempo: ["Código", "Xadrez", "Academia", "Música", "Jogar", "Física"],
   status: () => "Provavelmente codando... ou dormindo 😴"
 };
+```
+
 
 <br>
 
-## 👨‍💻 Sobre Mim  
+#👨‍💻 Sobre Mim  
 
 - 🎓 Atualmente estudando **Desenvolvimento de Sistemas no SENAI**.  
 - ♟ **Jogar** é meu passatempo favorito quando estou livre.  
