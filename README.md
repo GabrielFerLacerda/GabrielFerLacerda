@@ -21,12 +21,13 @@
 <br>
 
 ```js
-import Desenvolvedor from 'Gabriel';
-class SobreMim extends Desenvolvedor {
-  nome     = 'Gabriel Fernandes Lacerda';
-  trabalho  = 'Estudante SENAI';
-  local = 'Florianópolis, SC';
-}
-```
+const dev = {
+  name: "Seu Nome",
+  role: "Futuro Full Stack Developer",
+  studying: "Desenvolvimento de Sistemas - SENAI",
+  passions: ["Código", "Xadrez", "Academia", "Música", "Matemática", "Física"],
+  status: () => "Provavelmente codando... ou dormindo 😴"
+};
+
 <br>
 
