@@ -47,7 +47,7 @@ const dev = {
 
 <br>
 
-## 🛠 Ferramentas de Trabalho
+## ⚙ Tecnologias Utilizadas
 
 <br>
 
