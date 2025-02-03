@@ -86,24 +86,33 @@ const dev = {
 <br>
 
 
-<h3>🎮 Tente adivinhar o número secreto!</h3>
-<p>Escolha um número entre 1 e 10:</p>
-<input type="number" id="guess" min="1" max="10">
-<button onclick="checkNumber()">Adivinhar</button>
-<p id="result"></p>
+## 🚀 Minhas Competências
 
-<script>
-  const secretNumber = Math.floor(Math.random() * 10) + 1;
+### 👨‍💻 Linguagens de Programação  
+- 🟡 JavaScript ![★★★★☆](https://img.shields.io/badge/-4/5-yellow)  
+- 🔴 Java ![★★☆☆☆](https://img.shields.io/badge/-3/5-red)  
 
-  function checkNumber() {
-    let userGuess = document.getElementById('guess').value;
-    let result = document.getElementById('result');
+### 🖥️ Front-End  
+- ⚛️ React.js ![★★★★☆](https://img.shields.io/badge/-4/5-lightgrey)  
+- 🎨 HTML & CSS ![★★★★☆](https://img.shields.io/badge/-4/5-orange)  
+- 💠 Bootstrap ![★★★☆☆](https://img.shields.io/badge/-3/5-purple)  
 
-    if (userGuess == secretNumber) {
-      result.innerHTML = "🎉 Parabéns! Você acertou!";
-    } else {
-      result.innerHTML = "❌ Errado! Tente novamente!";
-    }
-  }
-</script>
+### 🔧 Back-End & Banco de Dados  
+- 🟢 Node.js ![★★★★☆](https://img.shields.io/badge/-4/5-green)  
+- 🐘 PostgreSQL ![★★☆☆☆](https://img.shields.io/badge/-3/5-blue)  
+
+### 🎨 Design & Organização  
+- 🎨 Figma ![★★★★★](https://img.shields.io/badge/-4/5-purple)  
+- 📌 Trello ![★★★★★](https://img.shields.io/badge/-4/5-blue)  
+- 🧠 Miro ![★★★★☆](https://img.shields.io/badge/-4/5-yellow)  
+
+### 🛠️ Ferramentas & DevOps  
+- 🐙 Git & GitHub ![★★★★★](https://img.shields.io/badge/-4/5-black)  
+- ☁️ GitHub Pages ![★★★☆☆](https://img.shields.io/badge/-3/5-lightgrey)  
+
+### 🔥 Soft Skills  
+- 💡 Criatividade ![★★★★★](https://img.shields.io/badge/-5/5-yellow)  
+- 🤝 Trabalho em Equipe ![★★★★☆](https://img.shields.io/badge/-4/5-green)  
+- 📢 Comunicação ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
+
 
