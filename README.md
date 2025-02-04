@@ -120,12 +120,4 @@ const dev = {
 <br>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFerLacerda&show_icons=true&theme=dark)
-![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerLacerda&theme=dark)
-
-![Snake animation](https://raw.githubusercontent.com/GabrielFerLacerda/GabrielFerLacerda/output/snake.svg)
-
-##
-
-<br>
-
 
