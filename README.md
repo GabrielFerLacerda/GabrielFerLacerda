@@ -115,4 +115,20 @@ const dev = {
 - 🤝 Trabalho em Equipe ![★★★★☆](https://img.shields.io/badge/-4/5-green)  
 - 📢 Comunicação ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
 
+## 📊 Estatus do GitHub
+
+<br>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFerLacerda&show_icons=true&theme=dark)
+![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerLacerda&theme=dark)
+
+<img src="https://raw.githubusercontent.com/nicholas-sc-08/GabrielFerLacerda/output/snake.svg" alt="Snake animation" />
+
+##
+
+<br>
+
+ <div>
+  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/GabrielFerLacerda/GabrielFerLacerda/blob/main/gifs/animated_image.gif"/>
+</div>
 
