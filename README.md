@@ -122,13 +122,10 @@ const dev = {
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFerLacerda&show_icons=true&theme=dark)
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFerLacerda&theme=dark)
 
-<img src="https://raw.githubusercontent.com/nicholas-sc-08/GabrielFerLacerda/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/GabrielFerLacerda/GabrielFerLacerda/output/snake.svg)
 
 ##
 
 <br>
 
- <div>
-  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/GabrielFerLacerda/GabrielFerLacerda/blob/main/gifs/animated_image.gif"/>
-</div>
 
