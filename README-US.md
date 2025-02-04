@@ -116,4 +116,8 @@ const dev = {
 - 🤝 Teamwork ![★★★★☆](https://img.shields.io/badge/-4/5-green)  
 - 📢 Communication ![★★★★☆](https://img.shields.io/badge/-4/5-blue)  
 
+## 📊 Github Status
 
+<br>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFerLacerda&show_icons=true&theme=dark)
