@@ -23,7 +23,7 @@
 
 ```js
 const dev = {
-  name: "Your Name",
+  name: "Gabriel Fernandes Lacerda",
   position: "Future Full Stack Developer",
   studying: "System Development - SENAI",
   hobbies: ["Coding", "Chess", "Gym", "Music", "Gaming", "Physics"],
